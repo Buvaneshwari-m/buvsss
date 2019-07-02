@@ -1,5 +1,5 @@
 o=int(input())
 z=1
-for p in range (1,o+1):
-  z=z*p
+for f in range (1,o+1):
+  z=z*f
 print(z)
