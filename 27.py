@@ -1,5 +1,5 @@
-romance=input()
-if romance.isdigit():
+rumor=input()
+if rumor.isdigit():
   print("yes")
 else:
   print("No")
