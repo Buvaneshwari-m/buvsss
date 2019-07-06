@@ -1,2 +1,3 @@
-buvi=input()
-print((len(buvi))-(buvi.count(" ")))
+jb=input("")
+hi=jb.replace(' ','')
+print(len(hi))
